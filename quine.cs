@@ -1,0 +1,1 @@
+class a{static void Main(){var c="class a{{static void Main(){{var c={1}{0}{1};System.Console.Write(c,c,(char)34);}}}}";System.Console.Write(c,c,(char)34);}}
